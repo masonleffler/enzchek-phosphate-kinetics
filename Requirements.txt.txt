@@ -1,0 +1,5 @@
+Streamlit
+pandas
+Bumpy
+Plotly
+Io
