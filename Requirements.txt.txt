@@ -1,5 +1,5 @@
-Streamlit
+streamlit
 pandas
-Bumpy
-Plotly
-Io
+numpy
+plotly
+io
